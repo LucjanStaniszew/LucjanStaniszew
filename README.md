@@ -1,11 +1,33 @@
+![Luciano Staniszewski](https://user-images.githubusercontent.com/91505393/156203792-948d37ba-d8cb-45d1-9d28-eaaedf8f5114.gif)
+
 <h1 align="center">Hi 👋, I'm Luciano Staniszewski, liked to be called Lucjan Staniszew</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Argentina</h3>
 
-- 🔭 I’m currently working on **Pet Clinics Locations**
+- 🔭 I’m currently working on **Pet Clinics Locations --> Insert Link Here <--**
 
 - 🌱 I’m currently learning **JavaScript & TypeScript, for Full Stack Web Development**
 
 - 📫 How to reach me **luciano.stani97@gmail.com**
+
+<h2>Some of my projects</h3>
+
+<h3> Pokemon Individual Proyect </h3>
+<img align="center" src="https://user-images.githubusercontent.com/91505393/156222099-f27be4fb-0d2d-4fbb-b8f1-c09e2ff0aa9b.jpg" height="300" width="500" />
+<img align="center" src="https://user-images.githubusercontent.com/91505393/156222106-06d86b91-0719-47c1-a38b-658c869c9209.jpg" height="300" width="500" />
+<img align="center" src="https://user-images.githubusercontent.com/91505393/156222120-d4c18ed5-8861-4df5-8d80-a224b04e79c4.jpg" height="300" width="500" />
+<img align="center" src="https://user-images.githubusercontent.com/91505393/156222129-17562f2f-355e-4d0b-b439-5d57ee6c2793.jpg" height="300" width="500" />
+
+<h3> WeatherApp </h3>
+<img align="center" src="https://user-images.githubusercontent.com/91505393/156215338-58de94c8-255f-4d60-91c9-4fbd644da345.jpg" height="300" width="500" />
+<a href="https://github.com/LucjanStaniszew/FT-M2/tree/master/09-React-Routing/homework" target="blank">LINK TO REPO</a>
+
+<h3> MovieApp </h3>
+<img align="center" src="https://user-images.githubusercontent.com/91505393/156220455-c42b6b20-b334-4fc7-9f0b-177b4750d320.jpg" height="300" width="500" />
+<a href="https://github.com/LucjanStaniszew/FT-M2/tree/master/12-React-Redux/homework" target="blank">LINK TO REPO</a>
+
+<h3> TimerApp </h3>
+<img align="center" src="https://user-images.githubusercontent.com/91505393/156220784-68b2a9e1-242b-4e30-b0e0-4aebe90bd787.jpg" height="300" width="500" />
+<a href="https://github.com/LucjanStaniszew/FT-M2/tree/master/13-React-Hooks/homework" target="blank">LINK TO REPO</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
