@@ -5,7 +5,7 @@
 
 - 🔭 The largest project i have worked is a: **Pet Clinics Locations** called **V.I.Pets <a href="https://vipets.vercel.app/">See me!</a>**
 
-- 🌱 I’m currently learning ** TypeScript, to use in Full Stack Web Development**
+- 🌱 I’m currently learning **TypeScript**, to use in **Full Stack Web Development**
 
 - 📫 How to reach me **luciano.stani97@gmail.com**
 
