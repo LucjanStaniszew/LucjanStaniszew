@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Luciano Staniszewski, liked to be called Lucjan Staniszew</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Argentina</h3>
 
-- 🔭 I’m currently working on **Pet Clinics Locations <a href="https://vipets.vercel.app/">See me!</a>**
+- 🔭 The largest project i have worked is a: **Pet Clinics Locations** called **V.I.Pets <a href="https://vipets.vercel.app/">See me!</a>**
 
-- 🌱 I’m currently learning **JavaScript & TypeScript, for Full Stack Web Development**
+- 🌱 I’m currently learning ** TypeScript, to use in Full Stack Web Development**
 
 - 📫 How to reach me **luciano.stani97@gmail.com**
 
