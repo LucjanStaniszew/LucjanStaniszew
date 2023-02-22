@@ -47,7 +47,8 @@
 <a href="https://github.com/LucjanStaniszew/BurguerX" target="blank">LINK TO REPO</a>
 </div>
 
-<h3> Seat Reservation App </h3>
+<details>
+<summary> <h3> Seat Reservation App </h3> </summary>
 <img align="center" src="https://github.com/LucjanStaniszew/Lucjan-Staniszew-Portfolio/blob/main/public/assets/SeatReservationApp/1.jpg" height="300" width="500" />
 <img align="center" src="https://github.com/LucjanStaniszew/Lucjan-Staniszew-Portfolio/blob/main/public/assets/SeatReservationApp/2.jpg" height="300" width="500" />
 <img align="center" src="https://github.com/LucjanStaniszew/Lucjan-Staniszew-Portfolio/blob/main/public/assets/SeatReservationApp/3.jpg" height="300" width="500" />
@@ -58,8 +59,10 @@
 ||
 <a href="https://vercel.com/lucjanstaniszew/seat-saving-app" target="blank">LINK TO APP</a>
 </div>
+</details>
 
-<h3> Spotify Clone App </h3>
+<details>
+<summary> <h3> Spotify Clone App </h3> </summary>
 <img align="center" src="https://github.com/LucjanStaniszew/Lucjan-Staniszew-Portfolio/blob/main/public/assets/SpotifyClone/1.jpg" height="300" width="500" />
 <img align="center" src="https://github.com/LucjanStaniszew/Lucjan-Staniszew-Portfolio/blob/main/public/assets/SpotifyClone/2.jpg" height="300" width="500" />
 <img align="center" src="https://github.com/LucjanStaniszew/Lucjan-Staniszew-Portfolio/blob/main/public/assets/SpotifyClone/3.jpg" height="300" width="500" />
@@ -69,8 +72,10 @@
 ||
 <a href="https://spotify-clone-lucjanstaniszew.vercel.app/" target="blank">LINK TO APP</a>
 </div>
+</details>
 
-<h3> Personal Portfolio </h3>
+<details>
+<summary> <h3> Personal Portfolio </h3> </summary>
 <img align="center" src="https://github.com/LucjanStaniszew/Lucjan-Staniszew-Portfolio/blob/main/public/assets/Portfolio/1.jpg" height="300" width="500" />
 <img align="center" src="https://github.com/LucjanStaniszew/Lucjan-Staniszew-Portfolio/blob/main/public/assets/Portfolio/2.jpg" height="300" width="500" />
 <img align="center" src="https://github.com/LucjanStaniszew/Lucjan-Staniszew-Portfolio/blob/main/public/assets/Portfolio/3.jpg" height="300" width="500" />
@@ -81,8 +86,10 @@
 ||
 <a href="https://lucjan-staniszew-portfolio-lucjanstaniszew.vercel.app/" target="blank">LINK TO APP</a>
 </div>
+</details>
 
-<h3> V.I.Pets </h3>
+<details>
+<summary> <h3> V.I.Pets </h3> </summary>
 <img align="center" src="https://github.com/LucjanStaniszew/Lucjan-Staniszew-Portfolio/blob/main/public/assets/VIPets/1.jpg" height="300" width="500" />
 <img align="center" src="https://github.com/LucjanStaniszew/Lucjan-Staniszew-Portfolio/blob/main/public/assets/VIPets/2.jpg" height="300" width="500" />
 <img align="center" src="https://github.com/LucjanStaniszew/Lucjan-Staniszew-Portfolio/blob/main/public/assets/VIPets/3.jpg" height="300" width="500" />
@@ -96,8 +103,10 @@
 ||
 <a href="https://github.com/LucjanStaniszew/Henry-PI-Pokemon" target="blank">LINK TO APP</a>
 </div>
+</details>
 
-<h3> Pokemon Individual Proyect </h3>
+<details>
+<summary> <h3> Pokemon Individual Proyect </h3> </summary>
 <img align="center" src="https://github.com/LucjanStaniszew/Henry-PI-Pokemon/blob/main/PokeApi/1.jpg" height="300" width="500" />
 <img align="center" src="https://github.com/LucjanStaniszew/Henry-PI-Pokemon/blob/main/PokeApi/2.jpg" height="300" width="500" />
 <img align="center" src="https://github.com/LucjanStaniszew/Henry-PI-Pokemon/blob/main/PokeApi/3.jpg" height="300" width="500" />
@@ -108,30 +117,37 @@
 ||
 <a href="https://github.com/LucjanStaniszew/Henry-PI-Pokemon" target="blank">LINK TO APP</a>
 </div>
+</details>
 
-<h3> WeatherApp </h3>
+<details>
+<summary> <h3> WeatherApp </h3> </summary>
 <img align="center" src="https://user-images.githubusercontent.com/91505393/156215338-58de94c8-255f-4d60-91c9-4fbd644da345.jpg" height="300" width="500" />
 <div display="flex">
 <a href="https://github.com/LucjanStaniszew/Weather-App" target="blank">LINK TO REPO</a>
 ||
 <a href="https://weather-app-lucjanstaniszew.vercel.app/" target="blank">LINK TO APP</a>
 </div>
+</details>
 
-<h3> MovieApp </h3>
+<details>
+<summary> <h3> MovieApp </h3> </summary>
 <img align="center" src="https://user-images.githubusercontent.com/91505393/156220455-c42b6b20-b334-4fc7-9f0b-177b4750d320.jpg" height="300" width="500" />
 <div display="flex">
 <a href="https://github.com/LucjanStaniszew/IGTVApp" target="blank">LINK TO REPO</a>
 ||
 <a href="https://movie-app-lucjanstaniszew.vercel.app/" target="blank">LINK TO APP</a>
 </div>
+</details>
 
-<h3> TimerApp </h3>
+<details>
+<summary> <h3> TimerApp </h3> </summary>
 <img align="center" src="https://user-images.githubusercontent.com/91505393/156220784-68b2a9e1-242b-4e30-b0e0-4aebe90bd787.jpg" height="300" width="500" />
 <div display="flex">
 <a href="https://github.com/LucjanStaniszew/TimerApp" target="blank">LINK TO REPO</a>
 ||
 <a href="https://timer-app-lucjanstaniszew.vercel.app/" target="blank">LINK TO APP</a>
 </div>
+</details>
 
 <h3>Thanks for Watchin' 'till the end, my best regards</h3>
 <h3>Lucjan Staniszew</h3>
