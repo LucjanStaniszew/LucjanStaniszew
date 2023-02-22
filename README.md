@@ -41,11 +41,13 @@
 
 <h2>Some of my projects</h3>
 
-<h3> BurgerX </h3>
+<details>
+<summary> <h3> BurgerX </h3> </summary>
 <h4> Coming soon...</h4>
 <div display="flex">
 <a href="https://github.com/LucjanStaniszew/BurguerX" target="blank">LINK TO REPO</a>
 </div>
+</details>
 
 <details>
 <summary> <h3> Seat Reservation App </h3> </summary>
