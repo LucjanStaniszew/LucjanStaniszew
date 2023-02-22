@@ -5,15 +5,16 @@
 
 - 🔭 The largest project i have worked is a: **Pet Clinics Locations** called **V.I.Pets <a href="https://vipets.vercel.app/">See me!</a>**
 
-- 🌱 I’m currently learning **TypeScript**, to use in **Full Stack Web Development**
+- 🌱 I’m currently learning **TypeScript**, to use in **Full Stack Web Development** & **Cibersecurity** to apply as a **DevSecOps**
 
 - 📫 How to reach me **luciano.stani97@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/luciano-staniszewski-full-stack-web-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luciano-staniszewski-full-stack-web-developer" height="30" width="40" /></a>
-<a href="https://instagram.com/lucjan_staniszewski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucjan_staniszewski" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/luciano-staniszewski-full-stack-web-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile luciano-staniszewski-full-stack-web-developer" height="30" width="40" /></a>
+<a href="https://instagram.com/lucjan_staniszewski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram User lucjan_staniszewski" height="30" width="40" /></a>
+<a href="mailto:luciano.stani97@gmail.com" target="blank"><img align="center" src="https://imgs.search.brave.com/RzIzF-k5_K2SLDbcWa_V910ZdbUjVGudFbo3g3GJPIE/rs:fit:680:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5o/OXprMjM4aDNCeGVR/S01tYmlpODNRSGFG/SyZwaWQ9QXBp" alt="MailMe" height="30" width="40" /> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -42,34 +43,54 @@
 
 <h3> BurgerX </h3>
 <h4> Coming soon...</h4>
+<div display="flex">
+<a href="https://github.com/LucjanStaniszew/BurguerX" target="blank">LINK TO REPO</a>
+</div>
 
 <h3> Seat Reservation App </h3>
-<img align="center" src="https://user-images.githubusercontent.com/91505393/156222099-f27be4fb-0d2d-4fbb-b8f1-c09e2ff0aa9b.jpg" height="300" width="500" />
-<img align="center" src="https://user-images.githubusercontent.com/91505393/156222106-06d86b91-0719-47c1-a38b-658c869c9209.jpg" height="300" width="500" />
-<img align="center" src="https://user-images.githubusercontent.com/91505393/156222120-d4c18ed5-8861-4df5-8d80-a224b04e79c4.jpg" height="300" width="500" />
-<img align="center" src="https://user-images.githubusercontent.com/91505393/156222129-17562f2f-355e-4d0b-b439-5d57ee6c2793.jpg" height="300" width="500" />
+<img align="center" src="https://github.com/LucjanStaniszew/Lucjan-Staniszew-Portfolio/blob/main/public/assets/SeatReservationApp/1.jpg" height="300" width="500" />
+<img align="center" src="https://github.com/LucjanStaniszew/Lucjan-Staniszew-Portfolio/blob/main/public/assets/SeatReservationApp/2.jpg" height="300" width="500" />
+<img align="center" src="https://github.com/LucjanStaniszew/Lucjan-Staniszew-Portfolio/blob/main/public/assets/SeatReservationApp/3.jpg" height="300" width="500" />
+<img align="center" src="https://github.com/LucjanStaniszew/Lucjan-Staniszew-Portfolio/blob/main/public/assets/SeatReservationApp/4.jpg" height="300" width="500" />
+<img align="center" src="https://github.com/LucjanStaniszew/Lucjan-Staniszew-Portfolio/blob/main/public/assets/SeatReservationApp/5.jpg" height="300" width="500" />
 <div display="flex">
-<a href="https://github.com/LucjanStaniszew/Henry-PI-Pokemon" target="blank">LINK TO REPO</a>
+<a href="https://github.com/LucjanStaniszew/Seat-Saving-App-Test" target="blank">LINK TO REPO</a>
 ||
-<a href="https://github.com/LucjanStaniszew/Henry-PI-Pokemon" target="blank">LINK TO APP</a>
+<a href="https://vercel.com/lucjanstaniszew/seat-saving-app" target="blank">LINK TO APP</a>
 </div>
 
 <h3> Spotify Clone App </h3>
-<img align="center" src="https://user-images.githubusercontent.com/91505393/156222099-f27be4fb-0d2d-4fbb-b8f1-c09e2ff0aa9b.jpg" height="300" width="500" />
-<img align="center" src="https://user-images.githubusercontent.com/91505393/156222106-06d86b91-0719-47c1-a38b-658c869c9209.jpg" height="300" width="500" />
-<img align="center" src="https://user-images.githubusercontent.com/91505393/156222120-d4c18ed5-8861-4df5-8d80-a224b04e79c4.jpg" height="300" width="500" />
-<img align="center" src="https://user-images.githubusercontent.com/91505393/156222129-17562f2f-355e-4d0b-b439-5d57ee6c2793.jpg" height="300" width="500" />
+<img align="center" src="https://github.com/LucjanStaniszew/Lucjan-Staniszew-Portfolio/blob/main/public/assets/SpotifyClone/1.jpg" height="300" width="500" />
+<img align="center" src="https://github.com/LucjanStaniszew/Lucjan-Staniszew-Portfolio/blob/main/public/assets/SpotifyClone/2.jpg" height="300" width="500" />
+<img align="center" src="https://github.com/LucjanStaniszew/Lucjan-Staniszew-Portfolio/blob/main/public/assets/SpotifyClone/3.jpg" height="300" width="500" />
+<img align="center" src="https://github.com/LucjanStaniszew/Lucjan-Staniszew-Portfolio/blob/main/public/assets/SpotifyClone/4.jpg" height="300" width="500" />
 <div display="flex">
-<a href="https://github.com/LucjanStaniszew/Henry-PI-Pokemon" target="blank">LINK TO REPO</a>
+<a href="https://github.com/LucjanStaniszew/SpotifyClone" target="blank">LINK TO REPO</a>
 ||
-<a href="https://github.com/LucjanStaniszew/Henry-PI-Pokemon" target="blank">LINK TO APP</a>
+<a href="https://spotify-clone-lucjanstaniszew.vercel.app/" target="blank">LINK TO APP</a>
+</div>
+
+<h3> Personal Portfolio </h3>
+<img align="center" src="https://github.com/LucjanStaniszew/Lucjan-Staniszew-Portfolio/blob/main/public/assets/Portfolio/1.jpg" height="300" width="500" />
+<img align="center" src="https://github.com/LucjanStaniszew/Lucjan-Staniszew-Portfolio/blob/main/public/assets/Portfolio/2.jpg" height="300" width="500" />
+<img align="center" src="https://github.com/LucjanStaniszew/Lucjan-Staniszew-Portfolio/blob/main/public/assets/Portfolio/3.jpg" height="300" width="500" />
+<img align="center" src="https://github.com/LucjanStaniszew/Lucjan-Staniszew-Portfolio/blob/main/public/assets/Portfolio/4.jpg" height="300" width="500" />
+<img align="center" src="https://github.com/LucjanStaniszew/Lucjan-Staniszew-Portfolio/blob/main/public/assets/Portfolio/5.jpg" height="300" width="500" />
+<div display="flex">
+<a href="https://github.com/LucjanStaniszew/Lucjan-Staniszew-Portfolio" target="blank">LINK TO REPO</a>
+||
+<a href="https://lucjan-staniszew-portfolio-lucjanstaniszew.vercel.app/" target="blank">LINK TO APP</a>
 </div>
 
 <h3> V.I.Pets </h3>
-<img align="center" src="https://user-images.githubusercontent.com/91505393/156222099-f27be4fb-0d2d-4fbb-b8f1-c09e2ff0aa9b.jpg" height="300" width="500" />
-<img align="center" src="https://user-images.githubusercontent.com/91505393/156222106-06d86b91-0719-47c1-a38b-658c869c9209.jpg" height="300" width="500" />
-<img align="center" src="https://user-images.githubusercontent.com/91505393/156222120-d4c18ed5-8861-4df5-8d80-a224b04e79c4.jpg" height="300" width="500" />
-<img align="center" src="https://user-images.githubusercontent.com/91505393/156222129-17562f2f-355e-4d0b-b439-5d57ee6c2793.jpg" height="300" width="500" />
+<img align="center" src="https://github.com/LucjanStaniszew/Lucjan-Staniszew-Portfolio/blob/main/public/assets/VIPets/1.jpg" height="300" width="500" />
+<img align="center" src="https://github.com/LucjanStaniszew/Lucjan-Staniszew-Portfolio/blob/main/public/assets/VIPets/2.jpg" height="300" width="500" />
+<img align="center" src="https://github.com/LucjanStaniszew/Lucjan-Staniszew-Portfolio/blob/main/public/assets/VIPets/3.jpg" height="300" width="500" />
+<img align="center" src="https://github.com/LucjanStaniszew/Lucjan-Staniszew-Portfolio/blob/main/public/assets/VIPets/4.jpg" height="300" width="500" />
+<img align="center" src="https://github.com/LucjanStaniszew/Lucjan-Staniszew-Portfolio/blob/main/public/assets/VIPets/5.jpg" height="300" width="500" />
+<img align="center" src="https://github.com/LucjanStaniszew/Lucjan-Staniszew-Portfolio/blob/main/public/assets/VIPets/6.jpg" height="300" width="500" />
+<img align="center" src="https://github.com/LucjanStaniszew/Lucjan-Staniszew-Portfolio/blob/main/public/assets/VIPets/7.jpg" height="300" width="500" />
+<img align="center" src="https://github.com/LucjanStaniszew/Lucjan-Staniszew-Portfolio/blob/main/public/assets/VIPets/8.jpg" height="300" width="500" />
 <div display="flex">
 <a href="https://github.com/LucjanStaniszew/Henry-PI-Pokemon" target="blank">LINK TO REPO</a>
 ||
@@ -77,10 +98,11 @@
 </div>
 
 <h3> Pokemon Individual Proyect </h3>
-<img align="center" src="https://user-images.githubusercontent.com/91505393/156222099-f27be4fb-0d2d-4fbb-b8f1-c09e2ff0aa9b.jpg" height="300" width="500" />
-<img align="center" src="https://user-images.githubusercontent.com/91505393/156222106-06d86b91-0719-47c1-a38b-658c869c9209.jpg" height="300" width="500" />
-<img align="center" src="https://user-images.githubusercontent.com/91505393/156222120-d4c18ed5-8861-4df5-8d80-a224b04e79c4.jpg" height="300" width="500" />
-<img align="center" src="https://user-images.githubusercontent.com/91505393/156222129-17562f2f-355e-4d0b-b439-5d57ee6c2793.jpg" height="300" width="500" />
+<img align="center" src="https://github.com/LucjanStaniszew/Henry-PI-Pokemon/blob/main/PokeApi/1.jpg" height="300" width="500" />
+<img align="center" src="https://github.com/LucjanStaniszew/Henry-PI-Pokemon/blob/main/PokeApi/2.jpg" height="300" width="500" />
+<img align="center" src="https://github.com/LucjanStaniszew/Henry-PI-Pokemon/blob/main/PokeApi/3.jpg" height="300" width="500" />
+<img align="center" src="https://github.com/LucjanStaniszew/Henry-PI-Pokemon/blob/main/PokeApi/4.jpg" height="300" width="500" />
+<img align="center" src="https://github.com/LucjanStaniszew/Henry-PI-Pokemon/blob/main/PokeApi/5.jpg" height="300" width="500" />
 <div display="flex">
 <a href="https://github.com/LucjanStaniszew/Henry-PI-Pokemon" target="blank">LINK TO REPO</a>
 ||
@@ -90,25 +112,25 @@
 <h3> WeatherApp </h3>
 <img align="center" src="https://user-images.githubusercontent.com/91505393/156215338-58de94c8-255f-4d60-91c9-4fbd644da345.jpg" height="300" width="500" />
 <div display="flex">
-<a href="https://github.com/LucjanStaniszew/Henry-PI-Pokemon" target="blank">LINK TO REPO</a>
+<a href="https://github.com/LucjanStaniszew/Weather-App" target="blank">LINK TO REPO</a>
 ||
-<a href="https://github.com/LucjanStaniszew/Henry-PI-Pokemon" target="blank">LINK TO APP</a>
+<a href="https://weather-app-lucjanstaniszew.vercel.app/" target="blank">LINK TO APP</a>
 </div>
 
 <h3> MovieApp </h3>
 <img align="center" src="https://user-images.githubusercontent.com/91505393/156220455-c42b6b20-b334-4fc7-9f0b-177b4750d320.jpg" height="300" width="500" />
 <div display="flex">
-<a href="https://github.com/LucjanStaniszew/Henry-PI-Pokemon" target="blank">LINK TO REPO</a>
+<a href="https://github.com/LucjanStaniszew/IGTVApp" target="blank">LINK TO REPO</a>
 ||
-<a href="https://github.com/LucjanStaniszew/Henry-PI-Pokemon" target="blank">LINK TO APP</a>
+<a href="https://movie-app-lucjanstaniszew.vercel.app/" target="blank">LINK TO APP</a>
 </div>
 
 <h3> TimerApp </h3>
 <img align="center" src="https://user-images.githubusercontent.com/91505393/156220784-68b2a9e1-242b-4e30-b0e0-4aebe90bd787.jpg" height="300" width="500" />
 <div display="flex">
-<a href="https://github.com/LucjanStaniszew/Henry-PI-Pokemon" target="blank">LINK TO REPO</a>
+<a href="https://github.com/LucjanStaniszew/TimerApp" target="blank">LINK TO REPO</a>
 ||
-<a href="https://github.com/LucjanStaniszew/Henry-PI-Pokemon" target="blank">LINK TO APP</a>
+<a href="https://timer-app-lucjanstaniszew.vercel.app/" target="blank">LINK TO APP</a>
 </div>
 
 <h3>Thanks for Watchin' 'till the end, my best regards</h3>
