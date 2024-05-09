@@ -101,9 +101,9 @@
 <img align="center" src="https://github.com/LucjanStaniszew/Lucjan-Staniszew-Portfolio/blob/main/public/assets/VIPets/7.jpg" height="300" width="500" />
 <img align="center" src="https://github.com/LucjanStaniszew/Lucjan-Staniszew-Portfolio/blob/main/public/assets/VIPets/8.jpg" height="300" width="500" />
 <div display="flex">
-<a href="https://github.com/LucjanStaniszew/Henry-PI-Pokemon" target="blank">LINK TO REPO</a>
+<a href="https://github.com/Navito-py/PF-PuppyPalace" target="blank">LINK TO REPO</a>
 ||
-<a href="https://github.com/LucjanStaniszew/Henry-PI-Pokemon" target="blank">LINK TO APP</a>
+<a href="https://github.com/Navito-py/PF-PuppyPalace" target="blank">LINK TO APP</a>
 </div>
 </details>
 
